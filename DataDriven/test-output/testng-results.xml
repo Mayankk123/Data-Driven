@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35318" started-at="2019-05-07T12:55:33Z" finished-at="2019-05-07T12:56:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35318" started-at="2019-05-07T12:55:33Z" finished-at="2019-05-07T12:56:09Z">
+      <class name="test.pack.Login_Test">
+        <test-method status="PASS" signature="init()[pri:0, instance:test.pack.Login_Test@7c16905e]" name="init" is-config="true" duration-ms="6282" started-at="2019-05-07T18:25:34Z" finished-at="2019-05-07T18:25:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="logintest(java.lang.String, java.lang.String)[pri:0, instance:test.pack.Login_Test@7c16905e]" name="logintest" duration-ms="805" started-at="2019-05-07T18:25:40Z" data-provider="getTestData" finished-at="2019-05-07T18:25:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[101.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="end()[pri:0, instance:test.pack.Login_Test@7c16905e]" name="end" is-config="true" duration-ms="777" started-at="2019-05-07T18:25:41Z" finished-at="2019-05-07T18:25:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="init()[pri:0, instance:test.pack.Login_Test@7c16905e]" name="init" is-config="true" duration-ms="5113" started-at="2019-05-07T18:25:42Z" finished-at="2019-05-07T18:25:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="logintest(java.lang.String, java.lang.String)[pri:0, instance:test.pack.Login_Test@7c16905e]" name="logintest" duration-ms="771" started-at="2019-05-07T18:25:47Z" data-provider="getTestData" finished-at="2019-05-07T18:25:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[102.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="end()[pri:0, instance:test.pack.Login_Test@7c16905e]" name="end" is-config="true" duration-ms="819" started-at="2019-05-07T18:25:48Z" finished-at="2019-05-07T18:25:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="init()[pri:0, instance:test.pack.Login_Test@7c16905e]" name="init" is-config="true" duration-ms="5003" started-at="2019-05-07T18:25:49Z" finished-at="2019-05-07T18:25:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="logintest(java.lang.String, java.lang.String)[pri:0, instance:test.pack.Login_Test@7c16905e]" name="logintest" duration-ms="721" started-at="2019-05-07T18:25:54Z" data-provider="getTestData" finished-at="2019-05-07T18:25:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[103.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="end()[pri:0, instance:test.pack.Login_Test@7c16905e]" name="end" is-config="true" duration-ms="772" started-at="2019-05-07T18:25:54Z" finished-at="2019-05-07T18:25:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="init()[pri:0, instance:test.pack.Login_Test@7c16905e]" name="init" is-config="true" duration-ms="5152" started-at="2019-05-07T18:25:55Z" finished-at="2019-05-07T18:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="logintest(java.lang.String, java.lang.String)[pri:0, instance:test.pack.Login_Test@7c16905e]" name="logintest" duration-ms="759" started-at="2019-05-07T18:26:00Z" data-provider="getTestData" finished-at="2019-05-07T18:26:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[104.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="end()[pri:0, instance:test.pack.Login_Test@7c16905e]" name="end" is-config="true" duration-ms="812" started-at="2019-05-07T18:26:01Z" finished-at="2019-05-07T18:26:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="init()[pri:0, instance:test.pack.Login_Test@7c16905e]" name="init" is-config="true" duration-ms="5176" started-at="2019-05-07T18:26:02Z" finished-at="2019-05-07T18:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="logintest(java.lang.String, java.lang.String)[pri:0, instance:test.pack.Login_Test@7c16905e]" name="logintest" duration-ms="879" started-at="2019-05-07T18:26:07Z" data-provider="getTestData" finished-at="2019-05-07T18:26:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mayank26.ms@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mayank]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="end()[pri:0, instance:test.pack.Login_Test@7c16905e]" name="end" is-config="true" duration-ms="778" started-at="2019-05-07T18:26:08Z" finished-at="2019-05-07T18:26:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- test.pack.Login_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
